@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume & Portfolio Builder",
+  "description": "Production-ready AI-powered platform to craft ATS-optimized resumes, cover letters, LinkedIn profiles, and live interactive portfolios with Gemini AI and Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
